@@ -21,6 +21,8 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidad
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
+ 
+
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)

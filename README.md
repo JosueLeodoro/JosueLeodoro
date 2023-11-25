@@ -1,9 +1,6 @@
-### Olá, me chamo Josué Leodoro 
+### Olá, meu nome é Josué Leodoro 
 
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, atualmente no 4/5 período. No decorrer desse caminho, meu interesse crescente por Data Science e Engenharia de Dados se destacou. Abaixo, compartilho alguns dos meus melhores projetos:
-
-cursando o Bootcamp 2023 de Data Science pelo Santander 
-
 
 <br>
 
